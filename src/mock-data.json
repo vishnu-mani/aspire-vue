@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Mark Henry",
+        "expirationDate": "12/27",
+        "cardNumber": "123456789012",
+        "isFreezed": false
+    },
+    {
+        "name": "Tom Harvey",
+        "expirationDate": "06/28",
+        "cardNumber": "189789623456",
+        "isFreezed": false
+    },
+    {
+        "name": "Ann Susan",
+        "expirationDate": "03/26",
+        "cardNumber": "176567856895",
+        "isFreezed": false
+    }
+]
